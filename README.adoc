@@ -4,7 +4,7 @@
 
 == Contexte
 
-Le but de ce TD/TP est de vous montrer des exemples de traces formelles entre les différents artefacts de votre application (des exigences jusqu'au code).
+Yann rouquie 
 
 .Les principaux artefacts qui nous intéressent en  R3-03 (Inspiré de https://github.com/xblanc33/QualiteDev/[ici])
 image::artifacts-r303.svg[width=120%,pdfwidth=60%,link="https://github.com/xblanc33/QualiteDev/"]
@@ -15,7 +15,7 @@ Voici la liste des exigences de départ :
 
 === 1 -- HelloWorld 
 
-Description::
+ijfjfjef
 Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" quand on l'exécute sans paramètre. 
 
 Issue::
