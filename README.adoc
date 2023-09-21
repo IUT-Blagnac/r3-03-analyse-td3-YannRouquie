@@ -15,7 +15,7 @@ Voici la liste des exigences de départ :
 
 === 1 -- HelloWorld 
 
-Description::
+ijfjfjef
 Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" quand on l'exécute sans paramètre. 
 
 Issue::
